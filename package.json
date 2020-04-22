@@ -1,0 +1,13 @@
+{
+  "name": "node-jest-fn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dominik Aksamit <daksamit@daksamit.pl>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
